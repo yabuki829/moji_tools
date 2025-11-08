@@ -3,9 +3,9 @@ description: >
   Japanese text utilities: ASCII width conversion and half/full-width Kana
   conversions with dakuten/handakuten support. （日本語の全角/半角・カナ変換ユーティリティ）
 version: 0.1.0
-repository: https://github.com/yourname/moji_tools
-homepage: https://github.com/yourname/moji_tools
-issue_tracker: https://github.com/yourname/moji_tools/issues
+repository: https://github.com/yabuki829/moji_tools
+homepage: https://github.com/yabuki829/moji_tools
+issue_tracker: https://github.com/yabuki829/moji_tools/issues
 topics:
   - text
   - japanese
